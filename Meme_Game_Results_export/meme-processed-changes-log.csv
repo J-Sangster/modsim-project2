@@ -1,0 +1,63 @@
+year,field,old,new,rounds,student,confidence,evidence
+2022,student,38,39,1-25,all,medium,second copy of ID 38; 38's real block (L5504) lists 39 as round-1 partner; 39 has no other rows; partners named this block 39 more than 38 (3 vs 2)
+2022,student,8,7,1-26,all,high,"second copy of ID 8; round 1 holds 7+8, 8 lists 7 as round-1 partner; partners named this block 7 in 23 rounds; 7 has no other rows"
+2022,student,NA,25,1-25,all,high,NA student; round 1 holds 25 + partner 31; partners named 25 back in 17/25 rounds; 25 has no other rows
+2022,student,NA,24,1-25,all,high,NA student; round 1 holds 24 + partner 64; partners named 24 back in 17/25 rounds; 24 has no other rows
+2022,partner,NA,87,1,89,high,round 1 holds 89+87; 87 named 89 back
+2022,partner,NA,38,1,39,medium,round 1 holds 39+38 (block relabeled to 39)
+2022,removed,,,24 rows,,high,exact repeat of earlier rows
+2023,student,89,90,1-12,all,high,second copy of ID 89; partners named this block 90 in 8 rounds; 90 has no other rows
+2023,student,107,106,1-16,all,high,second copy of ID 107; partners named this block 106 in 5 rounds; 106 has no other rows
+2023,student,13,114,1-13,all,high,second copy of ID 13; 13 lists 114 as round-1 partner; partners named this block 114 in 6 rounds; 114 has no other rows
+2023,student,81,59,1-13,all,high,second copy of ID 81; 81 lists 59 as round-1 partner; partners named this block 59 in 6 rounds; 59 has no other rows
+2023,student,NA,64,1-19,all,high,NA student; round 1 holds 64 + partner 91; holds meme 64 every round; 64 has no other rows
+2023,partner,NA,23,1,95,high,round 1 holds 95+23; 23 named 95 back
+2024,student,89,90,1-12,all,high,second copy of ID 89; partners named this block 90 in 8 rounds; 90 has no other rows
+2024,student,107,106,1-16,all,high,second copy of ID 107; partners named this block 106 in 5 rounds; 106 has no other rows
+2024,student,13,114,1-13,all,high,second copy of ID 13; 13 lists 114 as round-1 partner; partners named this block 114 in 6 rounds; 114 has no other rows
+2024,student,81,59,1-13,all,high,second copy of ID 81; 81 lists 59 as round-1 partner; partners named this block 59 in 6 rounds; 59 has no other rows
+2024,student,NA,64,1-19,all,high,NA student; round 1 holds 64 + partner 91; holds meme 64 every round; 64 has no other rows
+2024,partner,NA,23,1,95,high,round 1 holds 95+23; 23 named 95 back
+2025,student,23,901,1-10,all,low,"second copy of ID 23; arbitrary new ID (probably 23's round-1 partner 29, but evidence is thin)"
+2025,student,10,11,1-9,all,high,second copy of ID 10; partners named this block 11 in 5 rounds; 11 has no other rows
+2025,student,41,92,1-11,all,medium,second copy of ID 41; both copies list 92 as round-1 partner; partners named this block 92 (rounds 2-3) and the other block 41 (rounds 3-5); 92 has no other rows
+2025,student,68,67,1-10,all,high,second copy of ID 68; partners named this block 67 in 5 rounds; 67 has no other rows
+2025,student,89,90,1-10,all,high,second copy of ID 89; partners named this block 90 in 6 rounds; 90 has no other rows
+2025,student,57,75,1-10,all,high,second copy of ID 57; partners named this block 75 in 6 rounds; 75 has no other rows
+2025,partner,NA,49,1,19,high,49 named 19 back in round 1; 19 holds 49 in round 2
+2025,partner,NA,68,1,67,high,round 1 holds 67+68 (block relabeled to 67)
+2025,partner,NA,43,1,60,high,43 named 60 back in round 1; 60 holds 43 in round 2
+2025,partner,NA,89,1,90,high,round 1 holds 90+89 (block relabeled to 90)
+2025,partner,NA,57,1,75,high,round 1 holds 75+57 (block relabeled to 75)
+2025,partner,NA,22,3,41,high,22 named 41 as partner; 41 gained meme 22
+2025,partner,NA,80,4,41,high,80 named 41 as partner; 41 gained meme 80
+2025,partner,NA,3,5,41,medium,"3 named 41 as partner and held meme 89, which 41 gained"
+2025,partner,NA,5,6,41,low,only student holding meme 96 (gained this round) the round before
+2026,student,82,83,1-12,all,high,second copy of ID 82; partners named this block 83 in 8 rounds; 83 has no other rows
+2026,student,88,80,1-12,all,high,second copy of ID 88; round 1 holds 80 + partner 9; partners named this block 80 in 10 rounds; 80 has no other rows
+2026,partner,NA,4,2,3,high,4 named 3 back; 3 gained meme 4 which 4 held
+2026,partner,NA,80,3,3,high,"88 named 3 back; 88 held meme 9 which 3 gained; then corrected: partner wrote 88, but the pairing was with the student relabeled 88->80 (pairing evidence score 4 vs 0)"
+2026,partner,NA,1,4,3,high,1 named 3 back; 1 held meme 74 which 3 gained
+2026,partner,NA,79,5,3,high,79 named 3 back and held meme 79
+2026,partner,NA,2,6,3,high,2 named 3 back and held meme 95
+2026,partner,NA,96,7,3,medium,only student holding meme 11 (gained this round) the round before
+2026,partner,NA,82,8,3,high,82 named 3 back and held meme 6
+2026,partner,NA,95,9,3,high,95 named 3 back and held meme 76
+2026,partner,NA,17,10,3,medium,17 named 3 back (no new meme to confirm)
+2026,partner,NA,72,12,3,high,72 named 3 back and held meme 71
+2026,partner,NA,13,13,3,medium,13 named 3 back (no new meme to confirm)
+2026,partner,NA,9,14,3,medium,9 named 3 back (did not hold meme 98)
+2026,partner,NA,26,1,12,high,round 1 holds 12+26; 26 named 12 back
+2023,partner,89,90,12,41,medium,"partner wrote 89, but the pairing was with the student relabeled 89->90 (pairing evidence score 2 vs 1)"
+2024,partner,89,90,12,41,medium,"partner wrote 89, but the pairing was with the student relabeled 89->90 (pairing evidence score 2 vs 1)"
+2023,partner,89,90,10,59,medium,"partner wrote 89, but the pairing was with the student relabeled 89->90 (pairing evidence score 1 vs 0)"
+2024,partner,89,90,10,59,medium,"partner wrote 89, but the pairing was with the student relabeled 89->90 (pairing evidence score 1 vs 0)"
+2023,partner,81,59,2,5,high,"partner wrote 81, but the pairing was with the student relabeled 81->59 (pairing evidence score 4 vs 1)"
+2024,partner,81,59,2,5,high,"partner wrote 81, but the pairing was with the student relabeled 81->59 (pairing evidence score 4 vs 1)"
+2025,partner,23,901,6,12,high,"partner wrote 23, but the pairing was with the student relabeled 23->901 (pairing evidence score 2 vs 0)"
+2025,partner,23,901,8,42,medium,"partner wrote 23, but the pairing was with the student relabeled 23->901 (pairing evidence score 1 vs 0)"
+2025,partner,23,901,9,45,high,"partner wrote 23, but the pairing was with the student relabeled 23->901 (pairing evidence score 3 vs 0)"
+2025,partner,23,901,5,69,high,"partner wrote 23, but the pairing was with the student relabeled 23->901 (pairing evidence score 2 vs 0)"
+2025,partner,41,92,7,96,medium,"partner wrote 41, but the pairing was with the student relabeled 41->92 (pairing evidence score 1 vs 0)"
+2025,partner,57,75,4,68,medium,"partner wrote 57, but the pairing was with the student relabeled 57->75 (pairing evidence score 2 vs 1)"
+2026,partner,NA,73,11,3,medium,"gained meme 73; the three others holding it (79, 4, 72) each listed a different round-11 partner, and none was named back; they all got meme 73 from student 73 in round 10; 73 played but submitted no rows"
